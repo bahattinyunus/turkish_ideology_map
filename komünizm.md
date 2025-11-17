@@ -1,141 +1,138 @@
 
 
-# 🏛️ 11) **Muhafazakârlık / Konservatif Akım**
+# 🟥 10) **Komünizm / Sol Akımlar**
 
-Türkiye’de muhafazakârlık, hem bireysel yaşam tarzı hem de siyasal yaklaşım olarak güçlü bir ideolojik damar. Temel amaç: *toplumsal düzeni, aileyi, gelenekleri ve kültürel değerleri korumak*.
+Türkiye’de komünizm, hem siyasi hem ideolojik açıdan tarihi boyunca tartışmalı ve sınırları net olmayan bir hareket olmuştur. Ama temelde **“sınıfsız, eşitlikçi bir toplum”** yaratmayı hedefler.
 
-Muhafazakârlık, Türkiye’nin kültürel yapısına ve tarihsel hafızasına sıkı sıkıya bağlıdır.
+Sol akımların genel çerçevesinde; işçi hakları, sosyal adalet, devlet müdahalesi ve kolektivizm öne çıkar.
 
 ---
 
 ## 🎯 **Temel İddiası**
 
-> *“Toplumun ve devletin temel değerleri korunmalıdır; değişim kontrollü ve gelenekle uyumlu olmalıdır.”*
+> *“Mülkiyet eşit paylaşılmalı, sınıf ayrımları kaldırılmalı ve toplum tüm bireyler için eşit fırsatlar sunmalıdır.”*
 
-Buna göre devlet ve birey:
-
-* Ailenin ve toplumun temelini korur,
-* Dini ve kültürel normlara saygı gösterir,
-* Ani ve radikal değişikliklerden kaçınır.
+Komünizm, bireyi toplumun bir parçası olarak görür ve devlete/ekonomiye müdahaleyi zorunlu görür.
 
 ---
 
 ## 🧬 **Tarihsel Kökler**
 
-### **1) Osmanlı Dönemi**
+### **1) Osmanlı Son Dönemi**
 
-* Gelenek ve din ön plandaydı.
-* Toplumun işleyişi yüzyıllık normlar ve örf-adetlere dayanıyordu.
+* Sosyalist fikirler 19. yy sonu ve 20. yy başında Avrupa’dan girdi.
+* İşçi hareketleri ve sendikalar ortaya çıkmaya başladı.
 
-### **2) Cumhuriyetin İlk Yılları**
+### **2) Cumhuriyet’in Erken Dönemi**
 
-* Modernleşme ve devrimler ile muhafazakârlık karşıt bir ideoloji haline geldi.
-* Ancak kırsalda ve şehirli muhafazakâr kesimde kültürel direnç devam etti.
+* Komünizm, Sovyetler Birliği’nin etkisiyle Türkiye’de ilgi gördü.
+* 1920–1930’larda yasaklıydı ama düşünsel çevrelerde tartışıldı.
 
-### **3) 1950–1980**
+### **3) 1960–1980 – Türkiye Solu ve Komünizm**
 
-* Demokrat Parti dönemi → muhafazakâr değerlerin siyasette görünürlüğü arttı.
-* Din ve kültür ekseninde halkın yaşam tarzı siyaset ile desteklendi.
+* 1961 Anayasası sonrası sendikalar ve sol partiler hareketlendi.
+* Türkiye İşçi Partisi (TİP) ve Dev-Genç gibi oluşumlar öne çıktı.
+* Marksist-Leninist çizgi ve Maoist çizgi Türkiye’de yaygın.
 
-### **4) 1980 Sonrası**
+### **4) 1980 Darbesi Sonrası**
 
-* Muhafazakâr partiler, özellikle Refah Partisi ve ardından AK Parti ile siyasal güç kazandı.
-* Toplumda aile, din ve kültürel normların korunması ideolojik bir eksen haline geldi.
+* Komünist hareket baskı altına girdi; illegal örgütler öne çıktı.
+* Demokratik sol ve sosyalist çevreler daha reformist bir çizgi benimsedi.
+
+### **5) Günümüz**
+
+* Komünizm artık ana akım değil, daha çok akademik, düşünsel ve gençlik çevrelerinde var.
+* Sosyalist ve demokratik sol partiler modern yorumla temsil ediliyor.
 
 ---
 
 ## 📌 **Temel İlkeleri**
 
-### **1) Aile ve Toplumsal Düzen**
+### **1) Sınıfsız Toplum**
 
-* Aile, toplumun temel taşıdır.
-* Gelenek ve örf-adetler korunmalıdır.
+* İşçi, köylü, burjuva ayrımı kalkmalı.
+* Tüm kaynaklar toplumun ortak mülkiyeti olmalı.
 
-### **2) Kültürel Kimlik**
+### **2) Devlet Müdahalesi**
 
-* Türk kültürü, dini değerler ve tarih korunur.
-* Modernleşme ile gelenek arasında denge aranır.
+* Ekonomi ve üretim devletin kontrolünde olmalı.
+* Planlı ekonomi ve eşit dağılım.
 
-### **3) Kontrollü Değişim**
+### **3) Kolektivizm**
 
-* Değişim kabul edilir ama hızlı veya radikal değil.
-* Yenilikler toplumsal dengeyi bozmamalıdır.
+* Birey çıkarı değil toplum çıkarı önceliklidir.
+* Toplumun refahı için bireyler fedakârlık yapar.
 
-### **4) Devlet ve Dini Normlar**
+### **4) Anti-emperyalizm**
 
-* Dini ve kültürel normlar devlet politikalarına yansıyabilir.
-* Toplumun manevi dokusuna saygı gösterilir.
+* Yabancı müdahaleye ve kapitalist sömürüye karşı durur.
 
-### **5) Toplumsal Dayanışma**
+### **5) Eğitim ve Farkındalık**
 
-* Komşuluk, yardımlaşma ve dayanışma kültürü ön planda.
-* Bireycilikten ziyade topluluk önceliklidir.
+* Halk bilinçlendirilir, ideolojik eğitim öne çıkar.
 
 ---
 
 ## 🧱 **Türkiye’deki Alt Çizgiler**
 
-### **1) Klasik Muhafazakârlık**
+### **1) Marksist-Leninist**
 
-* Gelenek, aile ve dini normlar öncelikli.
-* Ani reformlara karşı temkinli yaklaşım.
+* Sınıf mücadelesi, devrim ve proletarya iktidarı ön planda.
 
-### **2) Dindar Muhafazakârlık**
+### **2) Maoist / Halkçı**
 
-* Din ile toplumsal yaşamın iç içe olması.
-* İslamcı ve kültürel değerleri koruma öncelikli.
+* Köylü ağırlıklı devrim anlayışı.
+* Dağ kadroları, halk savaşı fikri.
 
-### **3) Siyasal Muhafazakârlık**
+### **3) Demokratik Sol / Sosyalist**
 
-* Partiler aracılığıyla devlet politikalarını etkileme.
-* Toplumsal düzeni ve kültürel normları güçlendirme.
+* Reformist, barışçıl yöntemler, demokratik çerçevede eşitlikçi toplum.
 
-### **4) Ekonomik Muhafazakârlık**
+### **4) Özgürlükçü Sol / Gençlik Akımları**
 
-* Serbest piyasa + aile ve geleneksel işletmeleri koruma dengesi.
+* Küresel sol, çevrecilik, feministlik ve LGBT+ hakları ile birleşen sol çizgi.
 
 ---
 
-## 🔥 **Muhafazakârlık Neden Türkiye’de Güçlü?**
+## 🔥 **Komünizm Neden Türkiye’de Tartışmalı?**
 
-* Halkın büyük kısmı kültürel ve dini değerlere bağlı.
-* Toplumun çoğu hızlı değişime temkinli yaklaşır.
-* Aile, dini değerler ve toplumsal normlar hayatın merkezinde.
-* Siyasal temsil alanında güçlü partiler (DP, RP, AK Parti) ile destekleniyor.
+* Tarih boyunca **baskı ve yasaklarla** karşılaştı.
+* Sovyetler Birliği etkisi nedeniyle soğuk savaş döneminde “yabancı tehlike” algısı vardı.
+* Legal politik temsil alanı sınırlı kaldı.
+* Ama işçi ve emekçi hakları tartışmalarında önemli bir referans oldu.
 
 ---
 
 ## 🧨 **Eleştiriler**
 
-1. **Değişime direnç**
+1. **Bireysel özgürlüğe sınırlama riski**
 
-* Modernleşme ve yeniliklerin önü bazen tıkanır.
+* Kolektivizm birey özgürlüğünü kısıtlayabilir.
 
-2. **Birey özgürlüğü sınırlamaları**
+2. **Devlet merkezli ekonomi sorunları**
 
-* Toplumsal normlar bireysel tercihlerle çelişebilir.
+* Planlı ekonomi verimsizlik ve kaynak dağılımı sorunları yaratabilir.
 
-3. **Kadın hakları ve sosyal eşitlik sorunları**
+3. **Pratikte başarısız deneyimler**
 
-* Geleneksel normlar eşitlik tartışmalarına engel olabilir.
+* SSCB ve Doğu Bloku örnekleri tartışmalı.
 
-4. **Aşırı siyasallaşma riski**
+4. **Aşırı ideolojik yaklaşım**
 
-* Devlet ve dini değerlerin karışması tartışmalı hale gelebilir.
+* Genç kuşak ve globalleşme çağında tutuculuk eleştirisi.
 
 ---
 
 ## 🎖️ **Türkiye’de Öne Çıkan Figürler**
 
-* **Adnan Menderes** – Demokrat Parti dönemi
-* **Necmettin Erbakan** – Refah Partisi, İslami muhafazakâr çizgi
-* **Recep Tayyip Erdoğan** – AK Parti, modern muhafazakâr siyaset
-* **Süleyman Demirel** – kırsal muhafazakâr siyaseti temsil eden figür
-* **Yusuf Kaplan** – kültürel ve entelektüel muhafazakârlık
+* **İbrahim Kaypakkaya** – Türkiye’de devrimci komünist çizgi
+* **Deniz Gezmiş ve arkadaşları** – 68 kuşağı sol hareketi
+* **Behice Boran** – Türkiye İşçi Partisi lideri
+* **Doğu Perinçek** – Marksist-Leninist çizgi, ulusalcı yorum
+* **Süleyman Demirel dönemindeki sosyalist entelektüeller**
 
 ---
 
 ## 🗂️ **Repo İçin Kapanış Tanımı**
 
-**Muhafazakârlık**, Türkiye’de kültürel değerler, aile ve dini normları korumaya odaklanan ideolojidir. Hem bireysel yaşam tarzında hem de siyasal ve toplumsal alanda geniş bir etki alanına sahiptir ve Türkiye’nin ideolojik haritasının en köklü parçalarından biridir.
-
+**Komünizm / Sol akımlar**, Türkiye’de eşitlik, sınıfsız toplum ve sosyal adalet ekseninde şekillenen ideolojilerdir. Tarihsel baskılara rağmen, özellikle işçi hakları, demokrasi ve toplumsal eşitlik tartışmalarında kritik bir referans olmuştur.
