@@ -1,6 +1,6 @@
 
 
-# 🇹🇷 14) **Ulusalcı / Milliyetçi Akımlar**
+# 🇹🇷 **Ulusalcı / Milliyetçi Akımlar**
 
 Türkiye’de ulusalcı ve milliyetçi akımlar, özellikle Cumhuriyet dönemiyle birlikte güçlü bir siyasi ve toplumsal etki oluşturmuştur. Temel yaklaşımı: *ulusal birliği, devlet bütünlüğünü ve milli kimliği korumak*.
 

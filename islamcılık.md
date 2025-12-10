@@ -1,6 +1,6 @@
 
 
-## 🕌 6) **İslamcılık (Islamism)**
+## 🕌 **İslamcılık (Islamism)**
 
 Türkiye’de en köklü, en geniş tabanlı ama aynı zamanda en tartışmalı ideolojik akımlardan biri. “Din sadece bireysel bir inanç değildir; toplumsal ve siyasal düzenin de merkezidir.” fikrini temel alır.
 

@@ -1,6 +1,6 @@
 
 
-# 🟥 10) **Komünizm / Sol Akımlar**
+# 🟥 **Komünizm / Sol Akımlar**
 
 Türkiye’de komünizm, hem siyasi hem ideolojik açıdan tarihi boyunca tartışmalı ve sınırları net olmayan bir hareket olmuştur. Ama temelde **“sınıfsız, eşitlikçi bir toplum”** yaratmayı hedefler.
 

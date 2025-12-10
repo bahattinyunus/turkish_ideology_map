@@ -1,5 +1,5 @@
 
-# ☪️ 13) **Millî İslamcılık / İslami Akımlar**
+# ☪️ **Millî İslamcılık / İslami Akımlar**
 
 Türkiye’de millî İslamcılık, hem siyasal hem toplumsal bir ideoloji olarak ortaya çıkmış ve özellikle 20. yüzyılın ikinci yarısında etkili olmuştur. Temel yaklaşımı: *İslamî değerler ve millî kimlik ekseninde toplumsal ve siyasi düzeni kurmak*.
 

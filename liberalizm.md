@@ -1,6 +1,6 @@
 
 
-# 💼 9) **Liberalizm (Bireysel Özgürlük ve Serbest Piyasa)**
+# 💼 **Liberalizm (Bireysel Özgürlük ve Serbest Piyasa)**
 
 Türkiye’de liberalizm, tarih boyunca daha küçük bir tabana sahip olsa da fikir olarak ekonomiden siyasete, hukuktan toplumsal yaşama etkisi büyük bir ideolojidir. Liberalizm, *birey özgürdür, devlet müdahalesi minimum olmalıdır* prensibine dayanır.
 

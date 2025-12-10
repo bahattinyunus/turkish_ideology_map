@@ -1,6 +1,6 @@
 
 
-# 🏛️ 11) **Muhafazakârlık / Konservatif Akım**
+# 🏛️ **Muhafazakârlık / Konservatif Akım**
 
 Türkiye’de muhafazakârlık, hem bireysel yaşam tarzı hem de siyasal yaklaşım olarak güçlü bir ideolojik damar. Temel amaç: *toplumsal düzeni, aileyi, gelenekleri ve kültürel değerleri korumak*.
 

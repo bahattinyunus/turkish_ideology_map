@@ -1,6 +1,6 @@
 
 
-# 🐺 7) **Milliyetçilik (Türk Milliyetçiliği)**
+# 🐺 **Milliyetçilik (Türk Milliyetçiliği)**
 
 Türkiye’de hem siyasal hem kültürel düzlemde en etkili, en yaygın ve en çok alt kola ayrılmış ideolojik damar. Modern Türkiye’nin inşasında taşıyıcı kolonlardan biri.
 

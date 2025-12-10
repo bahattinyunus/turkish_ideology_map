@@ -1,6 +1,6 @@
 
 
-# 🌀 12) **Anarşizm / Özgürlükçü Sol**
+# 🌀 **Anarşizm / Özgürlükçü Sol**
 
 Türkiye’de anarşizm, genellikle gençlik hareketleri, üniversiteler ve bazı sosyal aktivist çevrelerde etkili olan bir ideolojidir. Temel yaklaşımı: *devlet otoritesine ve hiyerarşiye karşı özgürlükçü bir toplum yaratmak*.
 
