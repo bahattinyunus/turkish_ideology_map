@@ -466,7 +466,7 @@ Mühendislik, yapay zeka, inovasyon → yoğun Kemalist taban.
 
 Bugünün genç Kemalizmi daha modern, daha global, daha bilimsel bir çizgide.
 
-Aynen kankam, şimdi geldik bombaya:  
+
 
 # **5️⃣ Kemalizm’in Diğer İdeolojilerle Karşılaştırmalı Analizi**  
 Bu bölüm repo için aşırı değerli çünkü okuyan kişi “Türkiye’de ideolojiler neden birbirine çarpıyor?” sorusunun cevabını buradan alacak.  
