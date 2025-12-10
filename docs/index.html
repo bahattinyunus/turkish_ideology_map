@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Türkiye İdeoloji Haritası | Interactive Map</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <div id="sidebar">
+        <h1>🇹🇷 İdeoloji Haritası</h1>
+        <p>Bir düğüme tıklayarak detayları görebilirsiniz.</p>
+        <div id="info-box">
+            <h2 id="node-title">Seçim Yapın</h2>
+            <p id="node-desc">Haritadaki bir ideolojiye tıklayın.</p>
+            <a id="node-link" href="#" target="_blank" style="display:none;">Detaylı Oku →</a>
+        </div>
+        <footer>
+            <a href="https://github.com/bahattinyunus/ideolojiler_tr" target="_blank">GitHub Deposu</a>
+        </footer>
+    </div>
+
+    <div id="graph-container"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
