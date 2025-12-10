@@ -1,0 +1,123 @@
+{
+    "nodes": [
+        {
+            "id": "anarşizm",
+            "label": "Anarşizm  Özgürlükçü Sol",
+            "desc": "Türkiye’de anarşizm, genellikle gençlik hareketleri, üniversiteler ve bazı sosyal aktivist çevrelerd...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/anarşizm.md",
+            "group": 4
+        },
+        {
+            "id": "islamcılık",
+            "label": "islamcılık",
+            "desc": "Türkiye’de en köklü, en geniş tabanlı ama aynı zamanda en tartışmalı ideolojik akımlardan biri. “Din...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/islamcılık.md",
+            "group": 4
+        },
+        {
+            "id": "kemalizm",
+            "label": "Kemalizm Türkiyenin Modernleşme Projesinin Derin Analizi",
+            "desc": "Kemalizm, yalnızca bir ideoloji değil; Osmanlı İmparatorluğu’nun çözülüşü sonrası **tamamen yeniden ...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/kemalizm.md",
+            "group": 1
+        },
+        {
+            "id": "komünizm",
+            "label": "Komünizm  Sol Akımlar",
+            "desc": "Türkiye’de komünizm, hem siyasi hem ideolojik açıdan tarihi boyunca tartışmalı ve sınırları net olma...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/komünizm.md",
+            "group": 3
+        },
+        {
+            "id": "liberalizm",
+            "label": "Liberalizm (Bireysel Özgürlük ve Serbest Piyasa)",
+            "desc": "Türkiye’de liberalizm, tarih boyunca daha küçük bir tabana sahip olsa da fikir olarak ekonomiden siy...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/liberalizm.md",
+            "group": 4
+        },
+        {
+            "id": "milliyetçilik",
+            "label": "Milliyetçilik (Türk Milliyetçiliği)",
+            "desc": "Türkiye’de hem siyasal hem kültürel düzlemde en etkili, en yaygın ve en çok alt kola ayrılmış ideolo...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/milliyetçilik.md",
+            "group": 1
+        },
+        {
+            "id": "milli_islamcılık",
+            "label": "Millî İslamcılık  İslami Akımlar",
+            "desc": "Türkiye’de millî İslamcılık, hem siyasal hem toplumsal bir ideoloji olarak ortaya çıkmış ve özellikl...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/milli_islamcılık.md",
+            "group": 4
+        },
+        {
+            "id": "muhafazakarlık",
+            "label": "Muhafazakârlık  Konservatif Akım",
+            "desc": "Türkiye’de muhafazakârlık, hem bireysel yaşam tarzı hem de siyasal yaklaşım olarak güçlü bir ideoloj...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/muhafazakarlık.md",
+            "group": 4
+        },
+        {
+            "id": "sosyal_demokrat",
+            "label": "Sosyal Demokrasi  Reformist Sol",
+            "desc": "Türkiye’de sosyal demokrasi ve reformist sol, özellikle 20. yüzyılın ikinci yarısında etkili olmuştu...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/sosyal_demokrat.md",
+            "group": 3
+        },
+        {
+            "id": "ulusalcılık",
+            "label": "Ulusalcı  Milliyetçi Akımlar",
+            "desc": "Türkiye’de ulusalcı ve milliyetçi akımlar, özellikle Cumhuriyet dönemiyle birlikte güçlü bir siyasi ...",
+            "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/ulusalcılık.md",
+            "group": 1
+        },
+        {
+            "id": "Merkez",
+            "label": "MERKEZ",
+            "desc": "Siyasetin dengelenme noktası.",
+            "link": "",
+            "group": 0
+        }
+    ],
+    "links": [
+        {
+            "source": "Merkez",
+            "target": "anarşizm"
+        },
+        {
+            "source": "Merkez",
+            "target": "islamcılık"
+        },
+        {
+            "source": "Merkez",
+            "target": "kemalizm"
+        },
+        {
+            "source": "Merkez",
+            "target": "komünizm"
+        },
+        {
+            "source": "Merkez",
+            "target": "liberalizm"
+        },
+        {
+            "source": "Merkez",
+            "target": "milliyetçilik"
+        },
+        {
+            "source": "Merkez",
+            "target": "milli_islamcılık"
+        },
+        {
+            "source": "Merkez",
+            "target": "muhafazakarlık"
+        },
+        {
+            "source": "Merkez",
+            "target": "sosyal_demokrat"
+        },
+        {
+            "source": "Merkez",
+            "target": "ulusalcılık"
+        }
+    ]
+}
