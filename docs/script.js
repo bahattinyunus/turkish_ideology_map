@@ -50,10 +50,10 @@ d3.json("data.json").then(data => {
         .style("font-size", "12px")
         .style("pointer-events", "none");
 
-    node.on("click", (event, d) => {
+    // Helper to update Sidebar
+    function updateSidebar(d) {
         document.getElementById("node-title").innerText = d.label;
         document.getElementById("node-desc").innerText = d.desc;
-
         const linkElem = document.getElementById("node-link");
         if (d.link) {
             linkElem.href = d.link;
@@ -61,7 +61,41 @@ d3.json("data.json").then(data => {
         } else {
             linkElem.style.display = "none";
         }
+    }
+
+    // Interactive Click
+    node.on("click", (event, d) => {
+        updateSidebar(d);
+        // Visual Highlight
+        node.attr("stroke", "#fff")
+            .attr("stroke-width", 1.5)
+            .attr("r", 15); // Reset
+
+        d3.select(event.currentTarget)
+            .attr("stroke", "#facc15") // Yellow highlight
+            .attr("stroke-width", 3)
+            .attr("r", 25);
     });
+
+    // Expose focus function for Quiz
+    window.graphFocusFunction = function (nodeId) {
+        const foundNode = data.nodes.find(n => n.id.toLowerCase() === nodeId.toLowerCase());
+
+        if (foundNode) {
+            // Update Sidebar info
+            updateSidebar(foundNode);
+
+            // Re-heat simulation to move things a bit (optional excitement)
+            simulation.alpha(0.3).restart();
+
+            // Highlight Node
+            node.attr("stroke", d => d.id === foundNode.id ? "#facc15" : "#fff")
+                .attr("stroke-width", d => d.id === foundNode.id ? 4 : 1.5)
+                .attr("r", d => d.id === foundNode.id ? 30 : 15);
+        } else {
+            console.warn("Node not found: " + nodeId);
+        }
+    };
 
     simulation.on("tick", () => {
         link

@@ -1,14 +1,38 @@
 <!DOCTYPE html>
 <html lang="tr">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Türkiye İdeoloji Haritası | Interactive Map</title>
+    <meta property="og:title" content="Türkiye İdeoloji Haritası">
+    <meta property="og:description" content="Türkiye siyasetinin interaktif zihin haritası. Kendini nerede görüyorsun?">
+    <meta property="og:image"
+        content="https://raw.githubusercontent.com/bahattinyunus/ideolojiler_tr/main/assets/banner.png">
+    <meta name="twitter:card" content="summary_large_image">
+
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="quiz.css">
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
 </head>
+
 <body>
+
+    <!-- Quiz Trigger -->
+    <button id="start-quiz-btn" onclick="startQuiz()">🧭 Testi Çöz</button>
+
+    <!-- Quiz Modal -->
+    <div id="quiz-modal" class="modal">
+        <div class="modal-content" id="quiz-content">
+            <span class="close-btn" onclick="closeQuiz()">&times;</span>
+            <h2 class="quiz-title">🧭 İdeoloji Pusulası</h2>
+            <div id="quiz-question" class="question-text">Hazır mısın?</div>
+            <div id="quiz-options" class="options-container">
+                <!-- Options will be injected here -->
+            </div>
+        </div>
+    </div>
 
     <div id="sidebar">
         <h1>🇹🇷 İdeoloji Haritası</h1>
@@ -26,5 +50,7 @@
     <div id="graph-container"></div>
 
     <script src="script.js"></script>
+    <script src="quiz.js"></script>
 </body>
+
 </html>
