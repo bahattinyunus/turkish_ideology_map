@@ -2,15 +2,15 @@
     "nodes": [
         {
             "id": "anarşizm",
-            "label": "Anarşizm  Özgürlükçü Sol",
-            "desc": "Türkiye’de anarşizm, genellikle gençlik hareketleri, üniversiteler ve bazı sosyal aktivist çevrelerd...",
+            "label": "Anarşizm (Özgürlükçü Sol)",
+            "desc": "> *\"Otorite olmadan düzen, zorlama olmadan uyum.\"*",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/anarşizm.md",
-            "group": 4
+            "group": 1
         },
         {
             "id": "islamcılık",
             "label": "islamcılık",
-            "desc": "Türkiye’de en köklü, en geniş tabanlı ama aynı zamanda en tartışmalı ideolojik akımlardan biri. “Din...",
+            "desc": "Türkiye'nin tarihsel derinliğinden, toplumsal vicdanından ve medeniyet tasavvurundan beslenen, ülken...",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/islamcılık.md",
             "group": 4
         },
@@ -23,17 +23,17 @@
         },
         {
             "id": "komünizm",
-            "label": "Komünizm  Sol Akımlar",
-            "desc": "Türkiye’de komünizm, hem siyasi hem ideolojik açıdan tarihi boyunca tartışmalı ve sınırları net olma...",
+            "label": "Komünizm (Devrimci Sol)",
+            "desc": "> *\"Bütün ülkelerin işçileri, birleşin!\"*",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/komünizm.md",
-            "group": 3
+            "group": 1
         },
         {
             "id": "liberalizm",
-            "label": "Liberalizm (Bireysel Özgürlük ve Serbest Piyasa)",
-            "desc": "Türkiye’de liberalizm, tarih boyunca daha küçük bir tabana sahip olsa da fikir olarak ekonomiden siy...",
+            "label": "Liberalizm (Özgürlükçü Sağ)",
+            "desc": "> *\"Bırakınız yapsınlar, bırakınız geçsinler.\"*",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/liberalizm.md",
-            "group": 4
+            "group": 1
         },
         {
             "id": "milliyetçilik",
@@ -44,29 +44,29 @@
         },
         {
             "id": "milli_islamcılık",
-            "label": "Millî İslamcılık  İslami Akımlar",
-            "desc": "Türkiye’de millî İslamcılık, hem siyasal hem toplumsal bir ideoloji olarak ortaya çıkmış ve özellikl...",
+            "label": "Millî İslamcılık (Milli Görüş)",
+            "desc": "> *\"Önce Ahlak ve Maneviyat.\"*",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/milli_islamcılık.md",
-            "group": 4
+            "group": 1
         },
         {
             "id": "muhafazakarlık",
-            "label": "Muhafazakârlık  Konservatif Akım",
-            "desc": "Türkiye’de muhafazakârlık, hem bireysel yaşam tarzı hem de siyasal yaklaşım olarak güçlü bir ideoloj...",
+            "label": "Muhafazakârlık (Conservatism)",
+            "desc": "Türkiye’de muhafazakârlık, sadece siyasi bir görüş değil, aynı zamanda baskın bir **yaşam tarzı** ve...",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/muhafazakarlık.md",
             "group": 4
         },
         {
             "id": "sosyal_demokrat",
-            "label": "Sosyal Demokrasi  Reformist Sol",
-            "desc": "Türkiye’de sosyal demokrasi ve reformist sol, özellikle 20. yüzyılın ikinci yarısında etkili olmuştu...",
+            "label": "Sosyal Demokrasi (Reformist Sol)",
+            "desc": "> *\"Ne ezen ne ezilen, insanca hakça bir düzen.\"* — Bülent Ecevit",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/sosyal_demokrat.md",
-            "group": 3
+            "group": 1
         },
         {
             "id": "ulusalcılık",
-            "label": "Ulusalcı  Milliyetçi Akımlar",
-            "desc": "Türkiye’de ulusalcı ve milliyetçi akımlar, özellikle Cumhuriyet dönemiyle birlikte güçlü bir siyasi ...",
+            "label": "Ulusalcılık (Neo-Milliyetçilik)",
+            "desc": "> *\"Tam Bağımsız Türkiye!\"*",
             "link": "https://github.com/bahattinyunus/ideolojiler_tr/blob/main/ulusalcılık.md",
             "group": 1
         },

@@ -1,181 +1,78 @@
-
-
 # 🐺 **Milliyetçilik (Türk Milliyetçiliği)**
 
-Türkiye’de hem siyasal hem kültürel düzlemde en etkili, en yaygın ve en çok alt kola ayrılmış ideolojik damar. Modern Türkiye’nin inşasında taşıyıcı kolonlardan biri.
+Türkiye’de hem siyasal hem kültürel düzlemde en etkili, en yaygın ve en çok alt kola ayrılmış ideolojik damar. Modern Türkiye’nin inşasında "kurucu ideoloji" rolünü üstlenmiştir ve bugün de canlılığını korumaktadır.
 
-Milliyetçilik, “Türkiye’nin ideolojik ekosistemi” içinde hem devlete hem halka hem de kültüre yön veren en güçlü zihniyetlerden biri.
+Türk milliyetçiliği, "her Türk'ün kalbinde yatan aslan" olarak tanımlanabilir; kriz anlarında toplumun sığınağıdır.
 
 ---
 
 ## 🎯 **Temel İddiası**
 
-> *“Türkiye toplumunun kimliği Türk milletidir ve bu ortak kimliği korumak, güçlendirmek ve geleceğe taşımak gerekti.”*
+> *“Türk milleti, tarihsel derinliği, dili ve kültürüyle büyük bir millettir. Devletin ve toplumun amacı, bu varlığı ebedi kılmak (Beka) ve yüceltmektir.”*
 
-Bu kimlik:
-
-* Ortak dil,
-* Ortak tarih,
-* Ortak kültür,
-* Ortak hafıza
-  üzerinde yükselir.
-
-Türk milliyetçiliği, toplumu bir arada tutan çimento olarak çalışır.
+Bu görüş; vatanın bölünmez bütünlüğünü, milli kültürü ve devletin bekasını her şeyin üzerinde tutar. Birey, milleti için vardır.
 
 ---
 
-## 🧬 **Tarihsel Kökler**
+## ⏳ **Tarihsel Gelişim**
 
-### **1) Osmanlı’nın Son Dönemi – Türkçülük Fikri**
+### **1. Uyanış (1900'ler başı)**
+Osmanlıcılık ve İslamcılık akımlarının imparatorluğu kurtaramaması üzerine, "Türk unsuruna" dönüş başladı.
+*   **Öncüler:** Ziya Gökalp, Yusuf Akçura (Üç Tarz-ı Siyaset), Ömer Seyfettin.
+*   **Motto:** "Türkleşmek, İslamlaşmak, Muasırlaşmak."
 
-İmparatorluk dağılırken ortaya çıkıyor.
-Öncüler:
+### **2. Kuruluş (1923-1938)**
+Atatürk milliyetçiliği ile "ulus-devlet" inşa edildi. Bu dönemde milliyetçilik; "kültür ve yurttaşlık" temelliydi (ırkçılığı reddeden, "Ne mutlu Türk'üm diyene" anlayışı).
 
-* **Ziya Gökalp**
-* **Mehmet Emin Yurdakul**
-* **Yusuf Akçura**
+### **3. Soğuk Savaş ve Ülkücülük (1960-1980)**
+CKMP ve sonrasında MHP (Alparslan Türkeş) ile milliyetçilik, "Türk-İslam Ülküsü" formunda kitlesel bir sokak hareketine ve antikomünist bir cepheye dönüştü. "Dokuz Işık" doktrini yazıldı.
 
-Amaç: Çok milletli imparatorluktan “milli bir topluma” geçiş.
-
----
-
-### **2) Cumhuriyet’in Kuruluş Dönemi**
-
-Atatürk dönemi milliyetçiliği →
-**“sivil, kültürel, kapsayıcı bir milliyetçilik”**
-
-Türklüğün ırktan değil, vatandaşlıktan geldiğini vurgulayan bir model:
-
-> *“Ne mutlu Türküm diyene.”*
-> yani aidiyet bilinci.
+### **4. Modern Dönem (1990-Günümüz)**
+PKK terörü ve küreselleşme karşısında milliyetçilik "reaksiyoner" bir nitelik kazandı. Günümüzde hem seküler (Ulusalcı) hem de muhafazakâr (Ülkücü) kanatlarıyla siyasetin belirleyicisidir.
 
 ---
 
-### **3) 1950–1980 Arası – Ülkücü Hareketin Yükselişi**
+## 🧱 **Alt Kollar**
 
-Bu dönem milliyetçilik daha **ideolojik, kurumsal ve toplumsal mobilizasyon** haline geliyor.
+### **A. Ülkücülük**
+Geleneksel MHP çizgisi. Türk-İslam sentezini savunur. Devlet otoritesine sadakat ve sokak/teşkilat gücü yüksektir.
 
-* Turancılık,
-* Anti-komünizm,
-* Maneviyat,
-* Güvenlik devleti fikri
-  öne çıkıyor.
+### **B. Ulusalcılık**
+Seküler/Kemalist milliyetçilik. İslamcı tonu yoktur. Anti-emperyalist ve tam bağımsızlıkçıdır (Bkz: `ulusalcılık.md`).
 
-Alparslan Türkeş, bu çizginin mimarı.
+### **C. Kültürel Milliyetçilik**
+Siyasi taleplerden çok dil, tarih ve sanat üzerinden Türklük bilincini yaşatmayı hedefler.
 
----
-
-### **4) 1980 Sonrası – Modern Milliyetçilik**
-
-Globalleşme, PKK terörü, kimlik tartışmaları ile milliyetçilik yeniden güç kazandı.
-
-* Devlet merkezli güvenlik anlayışı,
-* Kültürel kimlik vurgusu,
-* Ekonomik milliyetçilik
-  öne çıktı.
-
-2000’ler ile beraber:
-
-* Ulusalcılık (laik, devletçi, seküler milliyetçilik)
-* Ülkücülük (daha gelenekçi ve kültürel milliyetçilik)
-* AK Parti sonrası farklı konservatif milliyetçilik yorumları
-  ortaya çıktı.
+### **D. Turancılık**
+Tüm Türk dünyasının (Orta Asya'dan Balkanlar'a) birleşmesini hayal eden, daha romantik ve stratejik vizyon.
 
 ---
 
-## 📚 **Türk Milliyetçiliğinin Alt Kolları**
+## 📊 **İlişkiler Ağı**
 
-### **1) Kültürel Milliyetçilik**
+### 🤝 **Dostlar / Müttefikler**
+*   **Muhafazakarlık:** Geleneksel değerlere bağlılıkta ortaktırlar (Sağ-Milliyetçi ittifak).
+*   **Kemalism:** Devletin kurucu değerleri ve üniter yapı konusunda ortaktırlar.
+*   **Milli İslamcılık:** "Tanrı Dağı kadar Türk, Hira Dağı kadar Müslüman" diyerek birleşirler.
 
-Daha soft, daha kültür odaklı.
-Dil → tarih → gelenek → ortak hafıza.
-
-### **2) Siyasi/Ülkücü Milliyetçilik**
-
-“Dava” kültürü, disiplin, idealizm.
-Türk dünyası → milli kimlik → güçlü devlet.
-
-### **3) Ulusalcılık**
-
-Daha seküler, daha Atatürkçü, daha devlet merkezli.
-Kemalist milliyetçilik ile iç içe.
-
-### **4) İslamcı-Milliyetçilik (Muhafazakâr milliyetçilik)**
-
-Hem dini hem milli kimliği birlikte savunan çizgi.
-Türk-İslam sentezi.
-
-### **5) Turancılık / Pan-Türkizm**
-
-Türk coğrafyalarının birleşmesi ideali.
-Daha ideolojik, daha ütopyacı, daha vizyoner bir çizgi.
+### ⚔️ **Rakipler / Karşıtlar**
+*   **Kürt Siyasi Hareketi:** Üniter devleti tehdit ettiği gerekçesiyle birincil tehdit olarak görülür.
+*   **Liberalizm:** "Milli çıkar" yerine "bireysel çıkar"ı koyduğu ve "milli devleti" zayıflattığı için sevilmez.
+*   **Komünizm:** "Kökü dışarıda" ve "bölücü" bir ideoloji olarak kodlanmıştır (Soğuk Savaş mirası).
 
 ---
 
-## 🏛️ **Milliyetçilik Ne İster?**
+## 🔮 **2020'ler Görünümü: Nereye Gidiyor?**
 
-### **1) Güçlü devlet**
+2020'li yıllar Türkiye'de **"Milliyetçiliğin Yükseliş Çağı"**dır.
 
-Devlet → milletin bekasının garantisi.
+*   **Seküler Milliyetçilik:** Genç kuşaklarda, mülteci karşıtlığı ve ekonomik kaygılarla harmanlanmış, dine mesafeli yeni bir milliyetçilik dalgası yükseliyor (Zafer Partisi çizgisi vb.).
+*   **Devletin Dili:** İktidar veya muhalefet fark etmeksizin, siyasetin dili tamamen milliyetçi kodlara bürünmüştür.
+*   **Savunma Sanayii:** İHA/SİHA başarıları, milliyetçiliğe "teknolojik gurur" boyutu ekledi.
 
-### **2) Birlik ve bütünlük**
-
-Toplumsal ayrışmaya karşı duruş.
-
-### **3) Ulusal bağımsızlık**
-
-Ekonomide, bilimde, siyasette bağımsızlık.
-
-### **4) Milli kültürün korunması**
-
-Dil → edebiyat → gelenek → tarih.
-
-### **5) Güvenlik odaklı yaklaşım**
-
-Terör, ayrılıkçılık, dış müdahaleler karşısında kararlı tavır.
+> **Özetle:** Milliyetçilik artık sadece bir partinin değil, ülkenin "varsayılan (default)" ayarı haline gelmiştir.
 
 ---
 
-## 🔥 Milliyetçilik Neden Bu Kadar Güçlü?
-
-* Coğrafya sert → güvenlik hassasiyeti yüksek.
-* Türkiye modernleşirken kimlik arayışı derin.
-* Osmanlı’nın dağılma travması milliyetçiliği besledi.
-* Terörle mücadele ve dış tehdit algıları güç veriyor.
-* Halkın çoğu kendini en azından “kültürel milliyetçi” hissediyor.
-
-Türk milliyetçiliği Türkiye’de *en geniş toplumsal karşılığı olan ideolojilerden biri.*
-
----
-
-## 🧨 Milliyetçiliğe Eleştiriler
-
-1. **Aşırı güvenlikçi yaklaşım**
-   Bireysel özgürlüklerle zaman zaman gerilim yaşar.
-
-2. **Kültürel homojenlik beklentisi**
-   Farklı kimliklerin kendini ifade alanı tartışmalı.
-
-3. **Devlet merkezli bakış**
-   Toplum ve birey geri plana düşebiliyor.
-
-4. **Aşırıya kaçtığında yabancı düşmanlığına dönüşme riski**
-   Irkçılıkla milliyetçiliğin karıştırılması.
-
----
-
-## 🎖️ Türkiye’de Önemli Figürler
-
-* **Mustafa Kemal Atatürk** (modern Türk milliyetçiliğinin mimarı)
-* **Ziya Gökalp**
-* **Alparslan Türkeş**
-* **Yusuf Akçura**
-* **Erol Güngör**
-* **İsmail Gaspıralı** (Türk dünyasının öncüsü)
-
----
-
-## 🗂️ Repo İçin Tanım
-
-**Milliyetçilik**, Türkiye siyasetinde hem tarihsel hem duygusal hem düşünsel bakımdan en etkili akımlardan biridir. Kimlik, kültür, devlet ve güvenlik ekseninde şekillenen bu ideoloji, Cumhuriyet’in kuruluşundan bugüne Türkiye’nin yönünü belirleyen ana hatlardan biridir.
-
+## 🏷️ **Özet Etiketler**
+`#Beka` `#Vatan` `#Türkİslam` `#SekülerMilliyetçilik` `#KızılElma` `#Bağımsızlık`
