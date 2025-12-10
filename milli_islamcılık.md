@@ -1,140 +1,57 @@
+# ☪️ **Millî İslamcılık (Milli Görüş)**
 
-# ☪️ **Millî İslamcılık / İslami Akımlar**
+> *"Önce Ahlak ve Maneviyat."*
 
-Türkiye’de millî İslamcılık, hem siyasal hem toplumsal bir ideoloji olarak ortaya çıkmış ve özellikle 20. yüzyılın ikinci yarısında etkili olmuştur. Temel yaklaşımı: *İslamî değerler ve millî kimlik ekseninde toplumsal ve siyasi düzeni kurmak*.
-
-Bu akım, hem dini hem kültürel değerleri korumayı hem de ulusal birliği ön planda tutmayı amaçlar.
-
----
-
-## 🎯 **Temel İddiası**
-
-> *“Toplumun temel değerleri İslam ve millî kültürle şekillendirilmeli; devlet ve siyaset bu eksen üzerinden toplumu yönlendirmeli.”*
-
-Buna göre:
-
-* Aile ve dini değerler korunmalı,
-* Ulusal bir kimlik güçlendirilmeli,
-* Modernleşme ve batılılaşma kontrollü olmalı.
+Necmettin Erbakan liderliğinde filizlenen, İslamcılığı "Anadolu irfanı" ve sanayileşme hedefiyle birleştiren yerli siyasi akımdır. Türkiye'nin son 20 yılına damgasını vuran kadroları yetiştirmiştir.
 
 ---
 
-## 🧬 **Tarihsel Kökler**
+## 🧬 **Tarihsel Derinlik**
 
-### **1) Osmanlı Dönemi**
+### **Odalar Birliği'nden Partileşmeye (1969)**
+Necmettin Erbakan'ın "Bağımsızlar Hareketi" ile meclise girmesi ve Milli Nizam Partisi'ni (MNP) kurmasıyla başladı.
 
-* İslam, toplumun merkezi öğesi olarak kabul ediliyordu.
-* Millî kimlik anlayışı ise modernleşme ve Tanzimat sonrası oluşmaya başladı.
+### **Koalisyonlar Dönemi (1970'ler)**
+MSP (Milli Selamet Partisi), CHP ile koalisyon kurarak (Kıbrıs Barış Harekatı dönemi) sistemin içine entegre oldu. "Ağır Sanayi Hamlesi" bu dönemin sloganıdır.
 
-### **2) Cumhuriyetin Erken Yılları**
-
-* Laiklik ve modernleşme politikaları ile dini etkiler sınırlanmak istendi.
-* Millî İslamcılık, legal olarak geri planda kaldı, ancak entelektüel çevrelerde tartışıldı.
-
-### **3) 1950–1980**
-
-* Demokrat Parti ve ardından Milli Selamet Partisi döneminde İslami değerler siyasal platforma taşındı.
-* İslami kimlik ile millî değerlerin birleşimi önem kazandı.
-
-### **4) 1980 Sonrası**
-
-* Refah Partisi ve AK Parti çizgisinde, İslami değerler modern siyasetle birleştirildi.
-* Devlet politikaları ve toplumsal yaşamda İslam ve millî değerlerin etkisi güçlendi.
+### **28 Şubat (1997)**
+Refah Partisi'nin iktidara gelmesi, laik asker-bürokrasi bloğu (Vesayet) tarafından "tehdit" olarak görüldü ve post-modern darbe ile iktidardan indirildi. Bu olay hareketi böldü (Gelenekçiler vs Yenilikçiler).
 
 ---
 
-## 📌 **Temel İlkeleri**
+## 📌 **Temel İlkeler**
 
-### **1) Dini Değerlerin Korunması**
-
-* İslamî yaşam biçimi, ibadet ve ahlaki normlar ön planda.
-* Toplumun manevi yapısı korunur.
-
-### **2) Millî Kimlik**
-
-* Türk kültürü ve tarihî miras vurgusu
-* Ulusal birliğin güçlendirilmesi
-
-### **3) Aile ve Toplumsal Düzen**
-
-* Aile, toplumun temel taşıdır.
-* Toplumsal normlar ve gelenekler önemlidir.
-
-### **4) Kontrollü Modernleşme**
-
-* Batılılaşma ve yenilikler, toplumun dini ve kültürel değerlerine zarar vermemeli.
-
-### **5) Sosyal Adalet**
-
-* Fakir ve yoksul kesimlere destek
-* Dayanışma ve toplumsal sorumluluk
+1.  **Adil Düzen**: Faizsiz bir ekonomik sistem (İslami Sosyalizm benzeri).
+2.  **İslam Birliği**: AB yerine D-8 (Gelişmekte olan 8 İslam ülkesi) projesi.
+3.  **Manevi Kalkınma**: Sadece fabrika yetmez, nesillerin ahlakı da korunmalı.
+4.  **Anti-Siyonizm**: İsrail karşıtlığı ve Filistin davası merkezdH.
 
 ---
 
-## 🧱 **Türkiye’deki Alt Çizgiler**
+## 🔮 **2020'lerde Durumu: Modern Görünüm**
 
-### **1) Klasik Millî İslamcılık**
+> **Durum**: 🌳 Kökleri İktidarda, Gövdesi Bölünmüş
 
-* Millî kimlik + dini değerler
-* Siyasal ve toplumsal koruma odaklı
-
-### **2) Refahçı / Siyasal İslamcı**
-
-* Refah Partisi ve benzeri partilerin çizgisi
-* Dini değerlerin siyasete entegrasyonu
-
-### **3) Modern İslami Muhafazakârlık**
-
-* AK Parti çizgisi
-* Ekonomi ve demokrasi ile İslamî değerleri dengeleme
-
-### **4) Sosyal İslamcılık**
-
-* Sosyal adalet ve dayanışma odaklı
-* Fakir ve zayıf kesimlerin korunması
+Milli Görüş gömleği, Türkiye'yi yöneten ana akım (AK Parti) oldu ancak hareketin kendisi bölündü.
+*   **Saadet Partisi**: Erbakan'ın orijinal çizgisini sürdüren, muhalefet bloğunda (CHP ile ittifak) yer alan gelenekçiler.
+*   **Yeniden Refah**: Fatih Erbakan liderliğinde, aşı karşıtlığı ve nafaka eleştirisi gibi yeni popülist konularla yükselen genç damar.
+*   **AK Parti**: Kökleri buradadır ancak kendini "Muhafazakar Demokrat" olarak tanımlayıp, global sisteme daha entegre olmuştur.
 
 ---
 
-## 🔥 **Millî İslamcılık Neden Türkiye’de Önemli?**
+## 🤝 **İlişkiler Ağı (Relations)**
 
-* Türkiye’nin kültürel ve dini yapısına doğrudan bağlıdır.
-* Siyasal temsil alanında güçlü partiler tarafından savunulmuştur.
-* Toplumsal değerlerin korunması ve ulusal kimliğin güçlendirilmesi açısından kritik.
-* Modern siyaset ve dini değerler arasında köprü kurar.
-
----
-
-## 🧨 **Eleştiriler**
-
-1. **Devlet ve din ilişkisi**
-
-* Laik devlet yapısı ile çelişebilir.
-
-2. **Bireysel özgürlükler sınırlanabilir**
-
-* Dini normlar, birey tercihlerine müdahale edebilir.
-
-3. **Modernleşme ile uyum zorluğu**
-
-* Küresel ve batılı normlarla çatışma yaşanabilir.
-
-4. **Siyasi kutuplaşma riski**
-
-* İslamcı-muhafazakâr çizgi ile laik-sol çizgi arasında gerilim oluşabilir.
+*   **Dostlar**:
+    *   **[İslamcılık](islamcılık.md)** (Doğal müttefik)
+    *   **[Muhafazakarlık](muhafazakarlık.md)** (Taban aynıdır)
+*   **Düşmanlar**:
+    *   **[Kemalizm](kemalizm.md)** (Batılılaşma ve laiklik eleştirisi)
+    *   **[Liberalizm](liberalizm.md)** (Faiz sistemi ve kültürel yozlaşma eleştirisi)
+    *   **[Ulusalcılık](ulusalcılık.md)** (28 Şubat travması)
 
 ---
 
-## 🎖️ **Türkiye’de Öne Çıkan Figürler**
-
-* **Necmettin Erbakan** – Millî Görüş ve Refah Partisi lideri
-* **Recep Tayyip Erdoğan** – AK Parti çizgisi
-* **Süleyman Hilmi Tunahan** – dini eğitim ve toplumsal etkisi
-* **Yusuf Kaplan** – entelektüel İslami yorum
-* **Nurettin Topçu** – millî İslamcı felsefe ve düşünce
-
----
-
-## 🗂️ **Repo İçin Kapanış Tanımı**
-
-**Millî İslamcılık / İslami Akımlar**, Türkiye’de dini değerler ve millî kimliği merkez alan ideolojilerdir. Hem siyasal hem toplumsal alanda geniş etkisi vardır ve modern Türkiye’nin ideolojik haritasının önemli bir parçasıdır.
-
+## 🏷️ **Anahtar İsimler**
+*   **Necmettin Erbakan**: "Hocası", teorisyeni ve ebedi lideri.
+*   **Recep Tayyip Erdoğan**: Hareketin içinden çıkıp onu dönüştüren lider.
+*   **Oğuzhan Asiltürk**: Hareketin "ak saçlısı", derin stratejisti.
